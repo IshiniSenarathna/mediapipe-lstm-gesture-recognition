@@ -1,0 +1,38 @@
+# Data directories
+MP_Data/
+1MP_Data/
+
+# Logs
+Logs/
+
+# Models
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment files
+.env
+venv/
+env/
+
+# Large data files (if any)
+*.npy  # Uncomment if you want to ignore .npy files, but 0.npy is included
